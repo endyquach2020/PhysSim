@@ -1,0 +1,6 @@
+{
+  "name": "PhysSim Interactive Lab",
+  "description": "A high-precision, interactive 2D physics simulation laboratory for exploring classical dynamics, forces, and motion in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
